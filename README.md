@@ -1,4 +1,4 @@
-head>
+<head>
 	<title>teste photo</title>
 		<h1>Soan Beltran photographies</h1>
 			<h2>photo ligth painting</h2>
